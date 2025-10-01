@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://2025.awscommunity.es/" target="_blank">
+    <img src="https://img.shields.io/badge/🎉%20AWS%20Community%20Day%20Spain%202025-Join%20the%20biggest%20AWS%20event!-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Community Day Spain 2025" />
+  </a>
+</div>
+
 # AWS User Group Madrid Repository
 
 Welcome to the official repository of the AWS User Group Madrid! 🚀
